@@ -1,1 +1,4 @@
-gi
+nav{
+    display: flex;
+    gap: 15px;
+}
